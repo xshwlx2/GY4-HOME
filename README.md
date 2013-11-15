@@ -1,4 +1,4 @@
-englishGroup
+englishGroupInfo
 ============
-sign your names
-englishGroup
+Maybe you can find your partners here!
+englishGroupInfo
